@@ -14,3 +14,4 @@
 + Commit message
 + Coding formatting
 + Readable code
++ Number of new tests
